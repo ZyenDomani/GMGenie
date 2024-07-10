@@ -5,7 +5,7 @@ Game Master Genie
 About GM Genie
 -------
 
-[![Screenshot of GM Genie](https://filedump.chocochaos.com/GitHub/GMGenie/GMGenie%200.7.jpg)
+![Screenshot of GM Genie](https://filedump.chocochaos.com/GitHub/GMGenie/GMGenie%200.7.jpg)
 
 GM Genie is an all-round GM addon for Trinitycore, aimed at making common tasks easier and quicker to accomplish. It provides tools for managing tickets, interacting with players on the server, building/spawning and much much more.
 
